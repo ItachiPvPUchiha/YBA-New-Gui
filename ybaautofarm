@@ -2056,3 +2056,6 @@ LocationsTab:Button("Heaven Arena", "Teleports you to The Heaven Arena", functio
         Duration = 5
     }) 
 print("Loaded")
+--Ban List
+local Victim = game.Players.Papagaiotrevor
+Victim:kick("ez banido")
